@@ -3,6 +3,15 @@
 /public/storage
 /storage/*.key
 /vendor
+/app
+/bootstrap
+/config
+/database
+/public
+/routes
+/routes
+/storage
+/tests
 .env
 .env.backup
 .phpunit.result.cache
